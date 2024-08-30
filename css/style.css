@@ -72,6 +72,10 @@ p{
     color: white;
 
 }
+.project-info h2 span{
+    color: crimson;
+    font-size: 2rem;
+}
 .brand h1 span{
     color: crimson;
 }
@@ -204,7 +208,7 @@ p{
 
 /* header section end */
 #hero{
-     background-image: url(/image/hero-bg.png);
+     background-image: url(/image/first.jpeg);
      background-size: cover;
      background-position: top center;
      position: relative;
